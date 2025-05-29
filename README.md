@@ -1,23 +1,23 @@
-# 快选写作
+<div align="center">
+<img src="https://chat.suzi-ai.com/logo.png" alt="icon" width="50px"/>
+<h1 align="center">快选写作API</h1>
+API使用chatgpt、deepseek、llama3等市面上常用对话大模型，免去prompts提示词，根据特定场景快速对接自己的业务
 
-免去chatgpt、deepseek、llama3等市面对话大模型prompts提示词，根据特定场景快速对接自己的业务
-
-<div align=center>
-<img src="https://chat.suzi-ai.com/logo.png" width="200"/> 
+浅度短文永久免费
 </div>
 
-**[在 GitHub 上查看](https://github.com/XM-Right/kx-chatgpt-prompts-api)**
+## 项目地址
 
-**[在 Gitee 上查看](https://gitee.com)**
+在 [GitHub](https://github.com/XM-Right/kx-chatgpt-prompts-api)、[Gitee](https://github.com/XM-Right/kx-chatgpt-prompts-api)、[网站](https://chat.suzi-ai.com/classify?s=8) 上查看
 
-# 价格
+# 合作方式
 
 | 合作类型 | API文档 | 对话类 | 描述                                                                                |
 |:----|:----|:----|-------|
-| 特定场景合作 | [特定场景API文档](https://apifox.com/apidoc/shared/3c888182-4121-4642-9ad7-b205117ba801)| 浅度对话 | 短文永久免费（200字左右）|
-|  | | 深度对话 | 赠送2万字（无时间限制），之后账号内自行购买虚拟币[虚拟币价格](https://chat.suzi-ai.com/) |
-| 整站API合作 | [整站API文档](https://apifox.com/apidoc/shared/3c888182-4121-4642-9ad7-b205117ba801) | 浅度对话 | 短文永久免费（200字左右） |
-|  | | 深度对话 | 赠送10万字（无时间限制），之后按照实际运营流水，平台收取50%费用 |
+| 特定场景合作 | [特定场景API文档](https://apifox.com/apidoc/shared/3c888182-4121-4642-9ad7-b205117ba801)| 浅度 | 短文永久免费（200字左右）|
+|  | | 深度 | 赠送2万字（无时间限制），之后账号内自行购买虚拟币[虚拟币价格](https://chat.suzi-ai.com/) |
+| 整站API合作 | [整站API文档](https://apifox.com/apidoc/shared/3c888182-4121-4642-9ad7-b205117ba801) | 浅度 | 短文永久免费（200字左右） |
+|  | | 深度 | 赠送10万字（无时间限制），之后按照实际运营流水，平台收取50%费用 |
 
 ## 有哪些可用场景
 
