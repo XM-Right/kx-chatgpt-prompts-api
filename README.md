@@ -6,7 +6,7 @@ API使用chatgpt、deepseek、llama3等市面上常用对话大模型，免去pr
 浅度短文永久免费
 </div>
 
-## 项目地址
+## 项目地址集
 
 在 [GitHub](https://github.com/XM-Right/kx-chatgpt-prompts-api)、[Gitee](https://github.com/XM-Right/kx-chatgpt-prompts-api)、[网站](https://chat.suzi-ai.com/classify?s=8) 上查看
 
