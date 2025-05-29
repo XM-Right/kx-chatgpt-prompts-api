@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://chat.suzi-ai.com/logo.png" alt="icon" width="50px"/>
+<img src="pic/logo.png" alt="icon" width="50px"/>
 <h1 align="center">快选写作API</h1>
 API使用chatgpt、deepseek、llama3等市面上常用对话大模型，免去prompts提示词，根据特定场景快速对接自己的业务
 
