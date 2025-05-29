@@ -8,9 +8,9 @@ API使用chatgpt、deepseek、llama3等市面上常用对话大模型，免去pr
 
 ## 项目地址集
 
-在 [GitHub](https://github.com/XM-Right/kx-chatgpt-prompts-api)、[Gitee](https://github.com/XM-Right/kx-chatgpt-prompts-api)、[网站](https://chat.suzi-ai.com/classify?s=8) 上查看
+在 [GitHub](https://github.com/XM-Right/kx-chatgpt-prompts-api)、[Gitee](https://gitee.com/bimingxing/kx-chatgpt-prompts-api)、[网站](https://chat.suzi-ai.com/classify?s=8) 上查看
 
-# 合作方式
+## 商务合作
 
 | 合作类型 | API文档 | 对话类 | 描述                                                                                |
 |:----|:----|:----|-------|
@@ -168,9 +168,9 @@ API使用chatgpt、deepseek、llama3等市面上常用对话大模型，免去pr
 
 加入API体验交流群，与志同道合的爱好者和创业者一起探讨最前沿的信息！与志同道合的人交流，共同提升你的知识水平！
 
-项目合作洽谈请[联系微信](https://mp.weixin.qq.com/s/Ir7CadEXQnscxa1ZjDdOyw)   （请注明来意，如有关于仓库问题需讨论请参考下文入群讨论）。
+项目合作洽谈请 [微信联系](https://mp.weixin.qq.com/s/Ir7CadEXQnscxa1ZjDdOyw)（请注明来意，如有关于仓库问题需讨论请参考下文入群讨论）。
 
-|                  API交流群                  |               如果API群二维码过期，加我拉你入群               |                          快选写作公众号                          |
+|                  API交流群                  |               如果API群二维码过期，加我拉你入群               |                          如需了解场景使用教程，请关注公众号                          |
 |:--------------------------------------:| :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="pic/api.png" width="300"/> | <img src="pic/me.png" width="300"/> |  <img src="pic/1748412530qrcode_for_gh_ab034a80b35a_258.jpg" width="300"/> |
 
