@@ -10,9 +10,21 @@ API使用chatgpt、deepseek、llama3等市面上常用对话大模型，免去pr
 
 在 [GitHub](https://github.com/XM-Right/kx-chatgpt-prompts-api)、[Gitee](https://gitee.com/bimingxing/kx-chatgpt-prompts-api)、[网站](https://chat.suzi-ai.com/classify?s=8) 上查看
 
+## 能做什么？
+可以根据特定场景，通过API开发AI相关的生成项目，项目终端没有限制（支持h5、android、鸿蒙、ios、小程序等）。
+
+可以做的项目包括但不限于，AI键盘、食谱、健身规划、论文提纲、学术写作、论文写作辅助、小红书文案写作、取名相关（项目取名、孩子取名、活动命名、昵称取名、宠物取名、品牌命名等）、化学（实验数据分析、化学品查询、分子合成师等）、客服与支持（支持报告、客户行为分析报告、满意度提升师等）、翻译（术语翻译、语法校对、旅行翻译等）。
+
+## 推荐项目
+
+| 项目类型 | 对应场景| 
+|----|-------|
+| 职场专用键盘、高情商键盘、故事背景键盘、恋爱键盘 | 参考 [这里](https://chat.suzi-ai.com/classify#1) |
+| 青少年健身、健身食谱、老年健身、饮水管理、教学指导 | 参考 [这里](https://chat.suzi-ai.com/classify#134) |
+
 ## 商务合作
 
-| 合作类型 | API文档 | 对话类 | 描述                                                                                |
+| 合作类型 | API文档 | 对话类 | 描述|
 |:----|:----|:----|-------|
 | 特定场景合作 | [特定场景API文档](https://apifox.com/apidoc/shared/3c888182-4121-4642-9ad7-b205117ba801)| 浅度 | 短文永久免费（200字左右）|
 |  | | 深度 | 赠送2万字（无时间限制），之后账号内自行购买虚拟币[虚拟币价格](https://chat.suzi-ai.com/) |
