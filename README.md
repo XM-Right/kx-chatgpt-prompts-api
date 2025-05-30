@@ -19,8 +19,9 @@ API使用chatgpt、deepseek、llama3等市面上常用对话大模型，免去pr
 
 | 项目类型 | 对应场景| 
 |----|-------|
-| 职场专用键盘、高情商键盘、故事背景键盘、恋爱键盘 | 参考 [这里](https://chat.suzi-ai.com/classify#1) |
-| 青少年健身、健身食谱、老年健身、饮水管理、教学指导 | 参考 [这里](https://chat.suzi-ai.com/classify#134) |
+| 职场专用键盘、高情商键盘、故事背景键盘、恋爱键盘 | 参考 [这里](https://chat.suzi-ai.com/classify#s1363) |
+| 青少年健身、健身食谱、老年健身、饮水管理、教学指导 | 参考 [这里](https://chat.suzi-ai.com/classify#s154) |
+| 五子棋小游戏 | 参考 [这里](https://chat.suzi-ai.com/intellect/chat?uuid=b55668b3-b063-5d89-8275-d74c653d3872&s=8) |
 
 ## 商务合作
 
